@@ -1,0 +1,16 @@
+localhost
+
+8000
+3000
+
+
+fastdfs
+docker
+docker-compose
+storm
+nacos
+sentinel-dashboard
+redis
+mongo
+mysql
+Kafka

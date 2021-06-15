@@ -1,0 +1,32 @@
+
+
+fastdfs
+storm
+Kafka
+
+
+https://meet.google.com/btm-oswk-spa
+
+
+
+
+專案名稱：包網系統
+
+專案描述：
+
+系統架構上以spring cloud 架構微服務系統，kafka做為訊息佇列，並以Storm做數據統計，搭配Mysql & Mongo為資料持久層。並架構線絡中轉模式下系統的間的溝通 及資料交換模式。
+
+
+規範Git開發工作流、看板使用方式，並與運維功能結合。
+Jenkins Pipeline與工作流結合，建置CI/CD，及重啟、關閉、退板等Job，部署時間從30分鐘手提升到3分鐘。
+以Ansible自動佈署系統所需infra(mongo、mysql、jdk、nginx…)。
+工作分配及進度追蹤、並適時協助。
+規範coding style、及代碼review。
+sql語法調校，索引維護。
+模組化FTP、簡訊等應用，提供良好的擴展性,將開發流程與CI/CD相結合，導入DEVOPS精神與應用。
+
+
+
+
+2QDBX-9T8HR-2QWT6-HCQXJ-9YQTR
+Microsoft Windows 7 家用進階版  64-bit
